@@ -30,7 +30,7 @@ export default function Solicitudes(){
             setDatoCorreo("")
         } else {
             setMensaje(datos.mensaje)
-            // Imprimimos en pantalla exactamente lo que digitaste
+            
             setDatoNombre(nombre)
             setDatoApellido(apellido)
             setDatoCorreo(correo)
